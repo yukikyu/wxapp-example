@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "i-input": "/static/libs/iview-weapp-ui/input/index",
+    "i-button": "/static/libs/iview-weapp-ui/button/index"
+  }
+}
